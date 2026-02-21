@@ -33,5 +33,10 @@ mover-se para cima, para baixo, para a esquerda ou para a direita. A dinâmica d
 uma ação leve o agente para fora dos limites da grade, o agente permanece no estado atual, evitando estados inválidos. O problema caracteriza-se como um cenário de Aprendizado por Reforço, no qual o agente deve aprender,
 ao longo de vários episódios, quais ações são mais vantajosas em cada estado para maximizar a recompensa acumulada ao longo do tempo.
 
+## Visualização do Projeto
 
+Para facilitar a visualização do aprendizado do agente, do ambiente estocástico e garantir a interatividade do projeto, 
+implementamos uma interface gráfica completa utilizando a biblioteca Streamlit. O projeto também foi implantado na nuvem e
+pode ser testado diretamente pelo navegador através do **Hugging Face Spaces**:
 
+🔗 **[Clique aqui para acessar a Simulação Online](https://huggingface.co/spaces/Enzit0/Inteligencia-Artificial-Q-Learning-Equipe11)**
