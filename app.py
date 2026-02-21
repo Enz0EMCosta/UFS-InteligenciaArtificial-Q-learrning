@@ -23,7 +23,7 @@ st.title("Q-Learning: Agente Explorador ")
 
 
 st.markdown("""
-Turma 01 - Professor Hendrik** 
+Turma 01 - Professor Hendrik- Equipe 11 
 """)
 
 
